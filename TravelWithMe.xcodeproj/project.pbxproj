@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B344F65225624C91004ABBF4 /* crayon_1-1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B344F65125624C91004ABBF4 /* crayon_1-1.ttf */; };
+		B344F65525624EB0004ABBF4 /* jf-openhuninn-1.1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B344F65425624EB0004ABBF4 /* jf-openhuninn-1.1.ttf */; };
+		B344F65825624FD1004ABBF4 /* twicon.otf in Resources */ = {isa = PBXBuildFile; fileRef = B344F65725624FD1004ABBF4 /* twicon.otf */; };
 		B387E4F2256118AD00429533 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B387E4F1256118AD00429533 /* AppDelegate.swift */; };
 		B387E4F4256118AD00429533 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B387E4F3256118AD00429533 /* SceneDelegate.swift */; };
 		B387E4F6256118AD00429533 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B387E4F5256118AD00429533 /* ViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B344F65125624C91004ABBF4 /* crayon_1-1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "crayon_1-1.ttf"; sourceTree = "<group>"; };
+		B344F65425624EB0004ABBF4 /* jf-openhuninn-1.1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "jf-openhuninn-1.1.ttf"; sourceTree = "<group>"; };
+		B344F65725624FD1004ABBF4 /* twicon.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = twicon.otf; sourceTree = "<group>"; };
 		B387E4EE256118AD00429533 /* TravelWithMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelWithMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B387E4F1256118AD00429533 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B387E4F3256118AD00429533 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +63,9 @@
 			isa = PBXGroup;
 			children = (
 				B387E4F1256118AD00429533 /* AppDelegate.swift */,
+				B344F65125624C91004ABBF4 /* crayon_1-1.ttf */,
+				B344F65425624EB0004ABBF4 /* jf-openhuninn-1.1.ttf */,
+				B344F65725624FD1004ABBF4 /* twicon.otf */,
 				B387E4F3256118AD00429533 /* SceneDelegate.swift */,
 				B387E4F5256118AD00429533 /* ViewController.swift */,
 				B387E4F7256118AD00429533 /* Main.storyboard */,
@@ -124,9 +133,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B344F65525624EB0004ABBF4 /* jf-openhuninn-1.1.ttf in Resources */,
+				B344F65225624C91004ABBF4 /* crayon_1-1.ttf in Resources */,
 				B387E4FE256118B000429533 /* LaunchScreen.storyboard in Resources */,
 				B387E4FB256118B000429533 /* Assets.xcassets in Resources */,
 				B387E4F9256118AD00429533 /* Main.storyboard in Resources */,
+				B344F65825624FD1004ABBF4 /* twicon.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
